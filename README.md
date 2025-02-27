@@ -10,7 +10,7 @@ The results are the following:
 | **aim-100**       | UNSAT    | 10    | 33       | 0.0017   | UNSAT  | N/A       | N/A      | N/A    | N/A    | N/A       | N/A         | N/A     | N/A     | 1     | 33  | 1     | 0.002 | UNSAT |
 | **big.dimacs**    | UNSAT    | 308   | 815      | 0.0071   | UNSAT  | N/A       | N/A      | N/A    | N/A    | N/A       | N/A         | N/A     | N/A     | 1     | 29  | 1     | 0.003 | UNSAT |
 | **dubois22**      | UNSAT    | 0     | 0        | 0.0012   | UNSAT  | 12582912  | 12582911 | 2.555  | UNSAT  | 4194306   | 12582911    | 14.640  | UNSAT   | 1     | 24  | 1     | 0.002 | UNSAT |
-| **p10.dimacs**    | UNSAT    | 5869722 | 7053110 | 38.5179  | UNSAT  | 70872610  | 70872609 | 17.344 | UNSAT  | N/A       | N/A         | N/A     | N/A     | 1     | 20  | 1     | 0.002 | UNSAT |
+| **p10.dimacs**    | UNSAT    | 5869722 | 7053110 | 38.5179  | UNSAT | 70872610  | 70872609 | 17.344 | UNSAT  | N/A       | N/A         | N/A     | N/A     | 1     | 20  | 1     | 0.002 | UNSAT |
 | **p2.dimacs**     | UNSAT    | 0     | 0        | 0.000942 | UNSAT  | 2         | 1        | 0.003  | UNSAT  | 1         | 1           | 0.004   | UNSAT   | 2     | 1   | 1     | 0.002 | UNSAT |
 | **p5.dimacs**     | UNSAT    | 204   | 245      | 0.001135 | UNSAT  | 375       | 374      | 0.002  | UNSAT  | 90        | 1240        | 0.002   | UNSAT   | 1     | 8   | 1     | 0.001 | UNSAT |
 | **p7.dimacs**     | UNSAT    | 12440 | 15320    | 0.028152 | UNSAT  | 32781     | 32780    | 0.008  | UNSAT  | 127340    | 71168128    | 46.436  | UNSAT   | 1     | 13  | 1     | 0.002 | UNSAT |
