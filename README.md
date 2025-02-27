@@ -2,7 +2,7 @@ I implement a basic, fast, and cdcl solver. These can be run via make check-fast
 
 The results are the following:
 
-'''Markdown
+'''markdown
 | **Problem**       | **Exp.** |     **MiniSat**     |             **fast**             |              **basic**              |                 **cdcl**                |
 |-------------------|:--------:|---------------------|----------------------------------|--------------------------------------|-----------------------------------------|
 |                   |          | Conf. | Dec.     | Time     | Res.   | Conf.     | Dec.     |  Time  | Res.   | Conf.     | Dec.         |  Time   |  Res.   | Conf. | Dec. | Learn | Time  |  Res.   |
