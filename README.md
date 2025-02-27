@@ -19,3 +19,5 @@ The results are the following:
 | **test.dimacs**   | **SAT**  | 0     | 1        | 0.000741 | SAT    | 0         | 2        | 0.002  | SAT    | 0         | 2           | 0.002   | SAT     | 0     | 2   | 0     | 0.001 | SAT   |
 | **uf250-01.cnf**  | UNSAT    | 0     | 0        | 0.001003 | UNSAT  | N/A       | N/A      | N/A    | N/A    | N/A       | N/A         | N/A     | N/A     | 1     | 27  | 1     | 0.002 | UNSAT |
 | **uf250-0100.cnf**| UNSAT    | 0     | 0        | 0.001006 | UNSAT  | N/A       | N/A      | N/A    | N/A    | N/A       | N/A         | N/A     | N/A     | 1     | 22  | 1     | 0.002 | UNSAT |
+
+Conf. is the number of conflicts. Dec. is the number of decisions. Learn (CDCL only) is the number of learned clauses. Time is runtime in seconds from the 'time' command in terminal. Res. is the final solver result (SAT or UNSAT)
