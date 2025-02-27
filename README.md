@@ -2,7 +2,6 @@ I implement a basic, fast, and cdcl solver. These can be run via make check-fast
 
 The results are the following:
 
-```markdown
 | Problem          | Exp   | MiniSAT Conf  | MiniSAT Dec   | MiniSAT Time   | MiniSAT Res | fast Conf | fast Dec | fast Time | fast Res | basic Conf | basic Dec   | basic Time | basic Res | cdcl Conf | cdcl Dec | cdcl Learn | cdcl Time | cdcl Res |
 |------------------|:-----:|--------:|--------:|----------:|:------:|---------:|--------:|----------:|:-------:|----------:|-----------:|-----------:|:---------:|----------:|---------:|----------:|----------:|:--------:|
 | **aim-50**       |  SAT  | 0       | 1       | 0.0012    |  SAT   | 11343    | 11352   | 0.006     |  SAT    | 80280297  | 1021582189 | 362.697    |   SAT     | N/A       | N/A      | N/A       | N/A       |  N/A     |
