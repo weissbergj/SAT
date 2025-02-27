@@ -3,8 +3,8 @@ I implement a basic, fast, and cdcl solver. These can be run via make check-fast
 The results are the following:
 
 ```markdown
-| **Problem**       | **Exp.** |     **MiniSat**     |             **fast**             |              **basic**              |                 **cdcl**                |
-|-------------------|:--------:|---------------------|----------------------------------|--------------------------------------|-----------------------------------------|
+| **Problem**       | **Exp.** |              **MiniSat**             |                **fast**                |                   **basic**                  |                 **cdcl**                |
+|-------------------|:--------:|--------------------------------------|----------------------------------------|----------------------------------------------|-----------------------------------------|
 |                   |          | Conf. | Dec.     | Time     | Res.   | Conf.     | Dec.     |  Time  | Res.   | Conf.     | Dec.         |  Time   |  Res.   | Conf. | Dec. | Learn | Time  |  Res.   |
 | **aim-50**        | **SAT**  | 0     | 1        | 0.0012   | SAT    | 11343     | 11352    | 0.006  | SAT    | 80280297  | 1021582189  | 362.697 | SAT     | N/A   | N/A | N/A   | N/A   |  N/A   |
 | **aim-100**       | UNSAT    | 10    | 33       | 0.0017   | UNSAT  | N/A       | N/A      | N/A    | N/A    | N/A       | N/A         | N/A     | N/A     | 1     | 33  | 1     | 0.002 | UNSAT |
