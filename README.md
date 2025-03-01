@@ -1,4 +1,4 @@
-I implement a basic, fast, and cdcl solver. These can be run via make check-fast, for example. Compare this to make check-minisat.
+I implement a [basic](https://github.com/weissbergj/SAT/blob/master/code/basic.c), [fast](https://github.com/weissbergj/SAT/blob/master/code/fast.c), and [cdcl](https://github.com/weissbergj/SAT/blob/master/code/cdcl.c) solver. These can be run via make check-fast, for example. Compare this to make check-minisat.
 
 The results are the following:
 
