@@ -1,4 +1,4 @@
-I implement a [basic](https://github.com/weissbergj/SAT/blob/master/code/basic.c), [fast](https://github.com/weissbergj/SAT/blob/master/code/fast.c), and [cdcl](https://github.com/weissbergj/SAT/blob/master/code/cdcl.c) solver. These can be run via make check-fast, for example. Compare this to make check-minisat.
+I implement a [basic](https://github.com/weissbergj/SAT/blob/master/code/basic.c), [fast](https://github.com/weissbergj/SAT/blob/master/code/fast.c), and [cdcl](https://github.com/weissbergj/SAT/blob/master/code/cdcl.c) solver. These can be run via make check-fast, make check-cdcl, make-check-basic, for example. Compare this to make check-minisat. Deeper analysis of bcp() is [here](https://github.com/weissbergj/SAT/blob/master/code/sample1.txt).
 
 The results are the following:
 
